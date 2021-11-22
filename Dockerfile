@@ -9,7 +9,6 @@ RUN set -ex \
     apache2-utils \
     bash \
     bind-tools \
-    bird \
     bridge-utils \
     busybox-extras \
     conntrack-tools \
